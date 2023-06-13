@@ -21,21 +21,8 @@ This repository is dedicated for machine learning development. Dataset, models, 
 
 We are using mobilenet_1.00_224 with some additional layers. Here are the summary of the model.
 
-Layer (type)                Output Shape              Param #   
-=================================================================
- mobilenet_1.00_224 (Functio  (None, 7, 7, 1024)       3228864   
- nal)                                                            
-                                                                 
- global_average_pooling2d (G  (None, 1024)             0         
- lobalAveragePooling2D)                                          
-                                                                 
- dense (Dense)               (None, 1280)              1312000   
-                                                                 
- dense_1 (Dense)             (None, 3)                 3843      
-                                                                 
-=================================================================
-Total params: 4,544,707
-Trainable params: 1,315,843
-Non-trainable params: 3,228,864
-_________________________________________________________________
+<div align="center">
+    <img src="https://github.com/Team-EasyMeal-C23-PC677/EasyMeal-ML/blob/main/.github/images/model%20summary.jpg">
+</div>
+
 
