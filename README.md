@@ -13,6 +13,6 @@
 
 🍽 EasyMeal is an application which help users by giving recipe recommendations based on ingredients they have. This application also helps user find out ingredients they don't know simply by uploading image(s) of the ingredient(s).
 
-# ℹ About
+# ℹ About Repository
 
 This repository is dedicated for machine learning development. Dataset, models, etc. are stored in this repository.
