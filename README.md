@@ -21,7 +21,7 @@ This repository is dedicated for machine learning development. Dataset, models, 
 
 We are using mobilenet_1.00_224 with some additional layers. Here are the summary of the model.
 
- Layer (type)                Output Shape              Param #   
+Layer (type)                Output Shape              Param #   
 =================================================================
  mobilenet_1.00_224 (Functio  (None, 7, 7, 1024)       3228864   
  nal)                                                            
