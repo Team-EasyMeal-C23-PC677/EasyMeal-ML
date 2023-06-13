@@ -15,7 +15,7 @@
 
 # ℹ About Repository
 
-This repository is dedicated for machine learning development. Dataset, models, etc. are stored in this repository.
+This repository is dedicated for machine learning development. Dataset, models, and anything related to machine learning are stored in this repository.
 
 # 🛠 Model
 
