@@ -1,7 +1,7 @@
 <h1 align="center"> EasyMeal-ML </h1> <br>
 <p align="center">
   <a>
-    <img alt="EasyMeal" title="EasyMeal" src="https://github.com/Team-EasyMeal-C23-PC677/.github/assets/97155903/6310e3f9-e4ee-4509-a193-b1036aac0b1f.png">
+    <img alt="EasyMeal" title="EasyMeal" src="https://github.com/Team-EasyMeal-C23-PC677/.github/blob/main/profile/logo2.png">
   </a>
 </p>
 
